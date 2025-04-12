@@ -9,17 +9,19 @@
 
 ## 🧩 配件列表
 
-- ASUS Prime AP201 MicroATX 机箱
-- Thermaltake Toughpower GF3 850W 金牌电源
-- ASUS TUF B760M-PLUS WiFi 主板
-- Intel Core i5-13600K 处理器
-- CORSAIR Vengeance DDR5 64GB 内存（2×32GB）
-- ASUS RTX 4070 White OC 12GB 显卡
-- WD_BLACK SN770 2TB NVMe SSD
-- LG UltraGear 27GL83A-B 27 英寸显示器
-- DeepCool AK620 高性能 CPU 风冷散热器
-- DeepCool FK120 风扇三件套
-- Logitech G203 RGB 有线鼠标
+| 配件       | 商品名                                   |
+| ---------- | ---------------------------------------- |
+| 机箱       | ASUS Prime AP201 MicroATX                |
+| 电源       | Thermaltake Toughpower GF3 850W 金牌电源 |
+| 主板       | ASUS TUF B760M-PLUS WiFi                 |
+| 处理器     | Intel Core i5-13600K                     |
+| 内存       | CORSAIR Vengeance DDR5 64GB（2×32GB）    |
+| 显卡       | ASUS RTX 4070 White OC 12GB              |
+| 固态硬盘   | WD_BLACK SN770 2TB NVMe SSD              |
+| 显示器     | LG UltraGear 27GL83A-B 27 英寸           |
+| CPU 散热器 | DeepCool AK620 高性能风冷                |
+| 机箱风扇   | DeepCool FK120 风扇三件套                |
+| 鼠标       | Logitech G203 RGB 有线鼠标               |
 
 ## ✨ 特色
 
